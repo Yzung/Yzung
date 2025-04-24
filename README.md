@@ -1,4 +1,3 @@
-![](./assets/json-intro.png)
 ```json
 {
   "Name": "Vagner Carlesso da Silva",

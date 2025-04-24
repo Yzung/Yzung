@@ -1,8 +1,12 @@
+![](./assets/json-intro.png)
+```json
 {
-<font color="red">Name</font> : <font color="blue">Vagner Carlesso da Silva</font>
-    <font color="red">Birth</font>  : <font color="blue">20-01-1997</font>
-    <font color="red">Spec</font> : <font color="blue">DEV</font>
+  "Name": "Vagner Carlesso da Silva",
+  "Birth": "20-01-1997",
+  "Spec": "DEV"
 }
+```
+
 <p align="left">
     <a href="https://www.linkedin.com/in/vagner-carlesso" target="_blank">
     <img 

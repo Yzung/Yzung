@@ -89,6 +89,14 @@
     style="padding-right: 10px;" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" 
 />
+<img
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" 
+/>
 <br/>
 <br/>
 

@@ -119,3 +119,10 @@
   />
 
 </p>
+
+### ✅ Tarefas / Tasks
+
+- [x] Criar perfil no GitHub / Create GitHub profile
+- [x] Adicionar tecnologias utilizadas / Add used technologies
+- [x] Adicionar estatísticas do GitHub / Add GitHub statistics
+- [ ] Tarefa de teste / Test task
